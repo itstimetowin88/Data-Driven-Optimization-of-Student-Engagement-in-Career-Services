@@ -1,4 +1,4 @@
-# SurveyIQ: Data-Driven Optimization of Student Engagement in Career Services
+# UMD Smith OCS: Data-Driven Optimization of Student Engagement in Career Services
 
 This project was developed as part of the **BUMK744: Marketing Research and Analytics** course at the University of Maryland's Robert H. Smith School of Business. It presents a structured, research-driven approach to optimizing student response rates for career services internship and placement surveys using behavioral insights and incentive testing.
 
